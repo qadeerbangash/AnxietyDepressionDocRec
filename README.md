@@ -1,3 +1,6 @@
+
+![recommendation system](https://github.com/qadeerbangash/AnxietyDepressionDocRec/assets/64665560/cdb708dd-1bf7-48dc-980c-4c02d150f694)
+
 ## Project Description
 
 The project is a recommendation system for counselors. It aims to recommend the best counselor based on the given specialization. The system utilizes data from different sources, performs data transformation, and loads the transformed data into Redis, periodically using a cronjob.
