@@ -18,7 +18,6 @@ The recommendation system uses PySpark for data processing and analysis. It leve
 
         REDIS_HOST=redis-server
         REDIS_PORT=6379
-        BASE_URL=https://xloop-dummy.herokuapp.com
 
 2. For the matching service, create a .env file inside the src/services/matching directory with the same contents as above.
    Note: Make sure you have a Redis server running with the specified host and port.
